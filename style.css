@@ -1,0 +1,37 @@
+/* header style  */
+
+li {
+    color: seagreen;
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+    text-decoration: underline;
+    padding: 5px;
+}
+
+/* QUESTION:  */
+/* - how can i underline only the number in the navigation menu? 01/02/03 */
+
+ul {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+/* logo  */
+#logo {
+    width: 8%;
+    position: relative;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
