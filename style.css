@@ -36,6 +36,7 @@ a {
     font-size: 20px;
 }
 
+
 /* main style  */
 
 /* COVER */
@@ -43,6 +44,10 @@ a {
 /* not sure this is the correct way to do it  */
 #cover {
     position: relative;
+}
+
+@media (min-width: 980px) {
+    font-size: 20px;
 }
 
 h2 {
