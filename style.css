@@ -70,3 +70,60 @@ hr {
 }
 
 /* main */
+h3 {
+    font-size: 50px;
+    line-height: 45px;
+}
+
+p {
+    margin-top: -40px;
+    font-size: 25px;
+    color:#707070;
+}
+
+/* PRODUCT 01  */
+
+#image01 {
+    position: absolute;
+    top:900px;
+    left: 800px;
+    margin-bottom: 400px;
+    }
+
+
+#text01{
+    top: 900px;
+    left: 400px;
+    position: absolute;
+}
+
+/* PRODUCT 02  */
+
+#image02{
+position: absolute;
+top:1700px;
+left: 400px;
+margin-bottom: 400px;
+}
+
+
+#text02{
+    top: 1700px;
+    left: 900px;
+    position: absolute;
+}
+
+/* PRODUCT 03 */
+
+#image03{
+    position: absolute;
+    top:2500px;
+    left: 800px;
+    margin-bottom: 400px;
+    }
+
+ #text03{
+    top: 2500px;
+    left: 400px;
+    position: absolute;
+    }
