@@ -39,6 +39,8 @@ a {
 /* main style  */
 
 /* COVER */
+
+/* not sure this is the correct way to do it  */
 #cover {
     position: relative;
 }
@@ -50,3 +52,21 @@ h2 {
     top:350px;
     left: 800px;
 }
+
+h4{
+    font-size: 30px;
+    color:darkgray;
+    position: absolute;
+    top: 620px;
+    left: 1400px;
+}
+
+hr {
+    position: absolute;
+    top: 670px;
+    left: 800px;
+    width: 30%;
+    border-color: green;
+}
+
+/* main */
