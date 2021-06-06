@@ -1,0 +1,181 @@
+/* header style  */
+
+li {
+    color: seagreen;
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+    text-decoration: underline;
+    padding: 5px;
+}
+
+/* QUESTION:  */
+/* - how can i underline only the number in the navigation menu? 01/02/03 */
+
+ul {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+/* logo  */
+#logo {
+    width: 8%;
+    position: relative;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+/* main style  */
+
+/* COVER */
+
+/* not sure this is the correct way to do it  */
+#cover {
+    position: relative;
+}
+
+@media (max-width: 980px) {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 85px;
+    font-style: italic;
+    position: absolute;
+    top:350px;
+    left: 800px;
+}
+
+h4{
+    font-size: 30px;
+    color:darkgray;
+    position: absolute;
+    top: 620px;
+    left: 1400px;
+}
+
+hr {
+    position: absolute;
+    top: 670px;
+    left: 800px;
+    width: 30%;
+    border-color: green;
+}
+
+/* main */
+h3 {
+    font-size: 50px;
+    line-height: 45px;
+}
+
+p {
+    margin-top: -40px;
+    font-size: 30px;
+    color:#707070;
+}
+
+h6 {
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* PRODUCT 01  */
+
+#image01 {
+    position: absolute;
+    top:900px;
+    left: 800px;
+    margin-bottom: 400px;
+    }
+
+
+#text01{
+    top: 900px;
+    left: 400px;
+    position: absolute;
+}
+
+#circle01 {
+    width: 100px;
+    height: 100px;
+    background:orange;
+    border-radius: 90%;
+    position: relative;
+    left: 250px;
+    top:30px;
+  }
+
+
+/* PRODUCT 02  */
+
+#image02{
+position: absolute;
+top:1700px;
+left: 400px;
+margin-bottom: 400px;
+}
+
+
+#text02{
+    top: 1700px;
+    left: 900px;
+    position: absolute;
+}
+
+
+
+/* PRODUCT 03 */
+
+#image03{
+    position: absolute;
+    top:2500px;
+    left: 800px;
+    margin-bottom: 400px;
+    }
+
+ #text03{
+    top: 2500px;
+    left: 400px;
+    position: absolute;
+    }
+
+    /* FOOTER  */
+
+    h5 {
+        top:2300px;
+        height: 500px;
+        background-color:rgb(22, 182, 17);
+        color: white;
+        padding-top: 90px;
+        padding-left: 800px;
+        position: relative;
+        font-size: 85px;
+        font-style: italic;
+    }
+
+
+    #linefooter{
+        border-color: white;
+        position: absolute;
+        top: 3700px;
+        width: 30%;
+    }
+
+    #namequote h4 {
+        color: white;
+        top: 3650px;
+    }
